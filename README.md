@@ -8,9 +8,16 @@ pix2pixを使った超解像
 ![demo2](https://raw.githubusercontent.com/magureen/sr-pix2pix/master/img/demo2.png)
 
 ## Run
+Getting
+'''
+git clone https://github.com/magureen/sr-pix2pix.git
+cd sr-pix2pix
+'''
+Install tensorflow2.0
 ```
-# Install tensorflow2.0
 pip install tensorflow-gpu # or tensorflow
-
+'''
+Run
+'''
 python sr.py test.png
 ```
