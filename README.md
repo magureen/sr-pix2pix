@@ -9,15 +9,15 @@ pix2pixを使った超解像
 
 ## Run
 Getting
-'''
+```
 git clone https://github.com/magureen/sr-pix2pix.git
 cd sr-pix2pix
-'''
+```
 Install tensorflow2.0
 ```
 pip install tensorflow-gpu # or tensorflow
 '''
 Run
 '''
-python sr.py test.png
+python sr.py test1.jpg test2.jpg
 ```
