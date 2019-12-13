@@ -26,3 +26,8 @@ Use f128 Model
 ```
 python sr.py --model ./model/generator_f128.h5 test1.jpg
 ```
+
+Windows環境では下記でGPU動作確認済み
+- Windows 7
+- cuda 10.0
+- cuDNN 7.6.5 for CUDA 10.0
