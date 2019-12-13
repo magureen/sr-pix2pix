@@ -16,8 +16,13 @@ cd sr-pix2pix
 Install tensorflow2.0
 ```
 pip install tensorflow-gpu # or tensorflow
-'''
+```
 Run
-'''
-python sr.py test1.jpg test2.jpg
+```
+python sr.py test1.jpg test2.jpg # output test1-sr.png test2-sr.png
+```
+
+Use f128 Model
+```
+python sr.py --model ./model/generator_f128.h5 test1.jpg
 ```
