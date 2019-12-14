@@ -22,16 +22,11 @@ Run
 python sr.py test1.jpg test2.jpg # output test1-sr.png test2-sr.png
 ```
 
-Use f128 Model
-```
-python sr.py --model ./model/generator_f128.h5 test1.jpg
-```
-
 Windows用パッケージ
 
-[ダウンロード](https://)
+[ダウンロード](https://github.com/magureen/sr-pix2pix/releases/download/0.0.0/sr-pix2pix.zip)
 
-画像ファイルをsr.batにドラッグアンドドロップすると同じディレクトリに-sr.pngが生成されます
+画像ファイルをsr.batにドラッグアンドドロップすると同じフォルダに-sr.pngが生成されます
 
 動作確認環境
 - Windows 7
