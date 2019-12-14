@@ -27,7 +27,7 @@ Use f128 Model
 python sr.py --model ./model/generator_f128.h5 test1.jpg
 ```
 
-Windows
+Windows用パッケージ
 
 [ダウンロード](https://)
 
