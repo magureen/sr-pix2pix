@@ -15,11 +15,12 @@ cd sr-pix2pix
 ```
 Install tensorflow2.0
 ```
-pip install tensorflow-gpu # or tensorflow
+pip install tensorflow # or tensorflow-gpu
 ```
 Run
 ```
 python sr.py test1.jpg test2.jpg
+# output test1-sr.png test2-sr.png
 ```
 
 Windows用パッケージ
