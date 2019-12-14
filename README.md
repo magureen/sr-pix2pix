@@ -28,7 +28,3 @@ Windows用パッケージ
 
 画像ファイルをsr.batにドラッグアンドドロップすると同じフォルダに-sr.pngが生成されます
 
-動作確認環境
-- Windows 7
-- cuda 10.0
-- cuDNN 7.6.5 for CUDA 10.0
