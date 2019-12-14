@@ -29,11 +29,11 @@ python sr.py --model ./model/generator_f128.h5 test1.jpg
 
 Windows
 
-[Download](https://) and extract
+[ダウンロード](https://)
 
-Drag and drop image file to sr.bat
+画像ファイルをsr.batにドラッグアンドドロップすると画像ファイルと同じディレクトリに-sr.pngが生成されます
 
-tested environment
+動作確認環境
 - Windows 7
 - cuda 10.0
 - cuDNN 7.6.5 for CUDA 10.0
