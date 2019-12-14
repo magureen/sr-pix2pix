@@ -19,7 +19,7 @@ pip install tensorflow-gpu # or tensorflow
 ```
 Run
 ```
-python sr.py test1.jpg test2.jpg # output test1-sr.png test2-sr.png
+python sr.py test1.jpg test2.jpg
 ```
 
 Windows用パッケージ
