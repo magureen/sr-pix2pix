@@ -13,7 +13,7 @@ Getting
 git clone https://github.com/magureen/sr-pix2pix.git
 cd sr-pix2pix
 ```
-Install tensorflow2.0
+Install tensorflow
 ```
 pip install tensorflow # or tensorflow-gpu
 ```
