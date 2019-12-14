@@ -28,7 +28,10 @@ python sr.py --model ./model/generator_f128.h5 test1.jpg
 ```
 
 Windows
-Download and Unzip
+
+[Download](https://) and extract
+
+Drag and drop image file to sr.bat
 
 tested environment
 - Windows 7
