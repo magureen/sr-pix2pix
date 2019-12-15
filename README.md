@@ -4,8 +4,8 @@ pix2pixを使った超解像
 - ノイズ除去 弱いガウシアンぼかし&jpegノイズ
 
 ## Results
-![demo1](https://raw.githubusercontent.com/magureen/sr-pix2pix/master/img/demo1.png)
-![demo2](https://raw.githubusercontent.com/magureen/sr-pix2pix/master/img/demo2.png)
+![demo1](https://user-images.githubusercontent.com/58849368/70858751-522e5d80-1f4b-11ea-9ad5-91c659c53b3f.png)
+![demo2](https://user-images.githubusercontent.com/58849368/70858753-5c505c00-1f4b-11ea-8860-da210f9c93c2.png)
 
 ## Usage
 Getting
