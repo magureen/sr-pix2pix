@@ -1,7 +1,7 @@
 # sr-pix2pix
 pix2pixを使った超解像
 - 拡大処理 X4
-- ノイズ除去 弱いガウシアンぼかし&jpegノイズ
+- ノイズ除去 jpegノイズ&弱いガウシアンぼかし
 
 ## Results
 ![demo2](https://user-images.githubusercontent.com/58849368/70858753-5c505c00-1f4b-11ea-8860-da210f9c93c2.png)
@@ -26,5 +26,4 @@ Windows用パッケージ
 
 [ダウンロード](https://github.com/magureen/sr-pix2pix/releases/download/0.0.0/sr-pix2pix.zip)
 
-画像ファイルをsr.batにドラッグアンドドロップすると同じフォルダに-sr.pngが生成されます
-
+画像ファイルをsr.batにドラッグアンドドロップ
